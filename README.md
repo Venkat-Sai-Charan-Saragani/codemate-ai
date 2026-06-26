@@ -17,6 +17,10 @@ An AI-powered Coding Assistant built with **Python**, **Streamlit**, and the **G
 * 🗑️ Clear chat functionality
 
 ---
+## Live Demo
+https://codemeta.streamlit.app/
+
+---
 
 ## 🛠️ Tech Stack
 
