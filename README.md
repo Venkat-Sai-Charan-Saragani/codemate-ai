@@ -115,7 +115,7 @@ Try asking:
 <img width="1907" height="917" alt="image" src="https://github.com/user-attachments/assets/76192112-9222-42bb-8159-098edfe2f0ee" />
 
 
-```text
+## result
 <img width="1907" height="920" alt="image" src="https://github.com/user-attachments/assets/fea55909-551b-4c40-a786-96eae20d9348" />
 
 
